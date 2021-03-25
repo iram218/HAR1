@@ -1,0 +1,4 @@
+cd C:\Users\Umar Khan\Desktop\CV\yolo-object-detection
+!python yolo.py -h
+!python yolo.py -i images/baggage_claim.jpg -y yolo-coco 
+!python yolo.py -i images/living_room.jpg -y yolo-coco

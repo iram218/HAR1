@@ -1,0 +1,2 @@
+cd C:\Users\Umar Khan\Desktop\CV\yolo-object-detection
+!python yolo_video.py -h
